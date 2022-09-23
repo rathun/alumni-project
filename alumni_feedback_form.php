@@ -48,6 +48,7 @@
     .table
     {
       text-align: center
+	  
     }
   </style>
 </head>
@@ -79,7 +80,7 @@
                                 Alumni List
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                  <li><a class="dropdown-item" href="civil.php">Civil Engineering</a></li>
+                                  <li><a class="dropdown-item" href="civil.php">Civil Engineering department</a></li>
                                         <li><a class="dropdown-item" href="mech.php">Mechanical Engineering</a></li>
                                         <li><a class="dropdown-item" href="mts.php">Mechatronics Engineering</a></li>
                                         <li><a class="dropdown-item" href="automobile.php">Automobile Engineering </a></li>
